@@ -122,6 +122,7 @@ All homeworks/assignements/reports are due the **day before** the class at 23.59
 * Let's build an interactive bar chart
 * Let's build an interactive bar chart using a dataset
 * Let's build an [interactive line chart using a dataset](http://bl.ocks.org/romsson/4fab85668c5cbed4fe0c070fa56d7a77)
+* [Result from class](https://blockbuilder.org/romsson/1a0c14ecfd3f4a8eae6b7dc0140a5ada)
 
 📅 **For next class (25/01)**
 
@@ -140,12 +141,38 @@ All homeworks/assignements/reports are due the **day before** the class at 23.59
 * What is visualization [research](https://medium.com/multiple-views-visualization-research-explained/what-is-visualization-research-what-should-it-be-8840a9ba658)? [literacy](https://medium.com/multiple-views-visualization-research-explained/what-does-visualization-literacy-mean-anyway-22f3b3badc0)?
 
 
-
 ## **Lecture 3 - Advanced D3.js and Design Methods**
 *Friday 25/01/2019 13:30-15:30*
 
+* [Solution stock line chart](https://blockbuilder.org/romsson/7d94b8925f4c8cb832770921aee23f88) (another one using [d3.nest](https://blockbuilder.org/romsson/57eb273e01761b829aaa95b28c8193c1))
+
+* Advanced D3.js: page layout, d3.nests, legends, scatterplot and grouped bar chart ([slides](https://docs.google.com/presentation/d/14pYKK2dYGnPS6iZ9l1gw1vuiPOGXjjCfeJlArMYRLBs/edit#slide=id.p))
+
 ## Tutorial 3: Design Methods & more D3.js 
 *Friday 25/01/2019 15:45-17:45*
+
+* Sketching, Rapid Prototyping, Development cycles ([slides](https://docs.google.com/presentation/d/11kEkZK12C893qzyEDvkIjgFKPmRKFf-KDDOKiwGw6ys/edit#slide=id.p)) and using the [Five Design Sheet](http://fds.design/) methodology
+
+* Read principles of the Five design sheets [methodology](http://fds.design/wp-content/uploads/2015/06/five-design-sheet-approach-JCR.pdf)
+
+* [Apply it](http://fds.design/index.php/resources-and-publications/) to your project (paper and pen)
+
+* At the end: 
+ * Update your proposal after feedback from instructor
+ * Add the link to (all) the design sheets in the class document
+
+
+📅 **For next class (02/02)**
+
+1. [Grouped bar chart](https://blockbuilder.org/romsson/a78f70f6624184fd33b4dc385a495e75) chart using the [`stocks.csv`](data/stocks.csv) dataset and [`d3.nest`](http://learnjsdata.com/group_data.html)
+
+* BONUS: [Stacked bar chart](https://blockbuilder.org/romsson/8aea86fddcf01380eb96a341509f394f)
+* BONUS: Transition between stacked and grouped (see [D3 show reel](https://bl.ocks.org/mbostock/1256572))
+
+2. A block with your project dataset (or expected dataset): load data from an external file (CSV, JSON), create a first chart characterising the **distribution** of the dataset (e.g. time series, bar chart, ), scatterplot. Link in the class document.
+
+3. Peer review other proposals and design sheets (link the class document)
+
 
 ## Lecture 4 - Advanced Design Method and Reseach in DataViz
 *Friday 01/02/2019 13:30-15:30*
