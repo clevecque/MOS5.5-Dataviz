@@ -211,7 +211,7 @@ At the end of the tutorial:
 
 * [Solution interactive geo-map](https://blockbuilder.org/romsson/bfb974bfd600573d763c405d20921b7c)
 
-## Tutorial 5: Node-Link Diagrams
+## Tutorial 5: Node-Link Graphs
 *Friday 08/02/2019 15:45-17:45*
 
 * Load this [Node link diagram](https://blockbuilder.org/romsson/613e64af0ea1fb1567aeac5d29e9ac35) based on [force layout](img/force.png) (see [documentation](https://github.com/d3/d3-force) and [parameters playground](https://bl.ocks.org/steveharoz/8c3e2524079a8c440df60c1ab72b5d03)) 
@@ -223,20 +223,12 @@ Update it with more features:
 
 BONUS: [multiple foci](http://bl.ocks.org/Kuerzibe/d2e79e28c5591a7e4552b6f9433ebe40)
 
-📅 **For next class (15/02)**
-
-✍ Assignments
-
-* Peer-review of other groups projects (2/3 pages in a PDF document)
-
-1. Do you understand the questions the projet adresses?
-2. Is the datasaet already availabe and if not will it be soon?
-3. Are the visualizations relevant (encoding, ..)? Are there enough interactions to explore/get details? Is the page layout well organized? 
-4. Do you think the final project will help answer questions? What is missing (data/visualizations/ interactions)?
-5. Any other remark/feedback?
+[Solution](https://blockbuilder.org/romsson/737693bfe28fb0e8e4d2a4dc55ffd846)
 
 ## Projects (1/2)
 *Friday 15/02/2019 13:30-15:30*
+
+**Peer-review of other groups projects** Fill [this form](https://goo.gl/forms/zjNnExy0NC9zAct53):
 
 ## Projects (2/2)
 *Friday 15/02/2019 15:45-17:45*
@@ -248,10 +240,31 @@ BONUS: [multiple foci](http://bl.ocks.org/Kuerzibe/d2e79e28c5591a7e4552b6f9433eb
 *Friday 01/03/2019 15:45-17:45*
 
 ## Projects: Final projects presentations & demos
-*Friday 08/03/2019 13:30-15:30*
+*Friday 08/03/2019 13:30-17:45*
 
-## Projects: Final projects presentations & demos
-*Friday 08/03/2019 15:45-17:45*
+Each group has a 15min time slot (10min presentation, 5min questions) to present their project.
+
+**No slide: just show the visualization and tell a convincing story (e.g. don't list features, etc.). Should address the following:**
+
+1. Present context, dataset, data collection
+2. Describe key design decisions (visual mappings, interactions, animations, ..)
+3. Did the visualization help you find anything of interest in the dataset?
+4. Discuss technical challenges, limits, what you would have done with more time.
+
+*There is no report to write for the project, just add a README.md in the repository organized as follows:*
+
+- Name of the participants of the project
+- Description of the project
+- Screenshots and/or video of the main features
+- Credits to external code or data you may have used in your project
+
+**IMPORTANT -- Regarding the dataset**
+
+- If you don't want to share your dataset, add a demo/fake dataset (e.g. sample or fake data) for the live demo
+- Provide a way to let users use their own dataset and explain how to do it (upload button? using a Python script? etc.)
+- If you take screenshots with the real dataset make sure you preserve individuals privacy
+
+As a general rule keep in mind the projects will be made public so anybody should be able to understand on their own and privacy of the datasets should be preserved.
 
 ## Exam
 *Wednesday 13/03/2019 16:30-18:30*
@@ -275,6 +288,7 @@ D3.js
 * [Changes in D3 4.0](https://github.com/d3/d3/blob/master/CHANGES.md)
 * [D3 V4 - What's new?](https://iros.github.io/d3-v4-whats-new/#1)
 * [Wide vs. Long Data in D3](http://jonathansoma.com/tutorials/d3/wide-vs-long-data/)
+* [D3 Cheatsheet](http://www.jeromecukier.net/wp-content/uploads/2012/10/d3-cheat-sheet.pdf)
 
 SVG 
 
@@ -316,6 +330,13 @@ Graphics/Journals
 
 * http://www.bloomberg.com/visual-data/
 * http://data.huffingtonpost.com/
+
+Color
+
+* [D3 color schemes](https://beta.observablehq.com/@mbostock/d3-color-schemes)
+* https://cloudflare.design/color/
+* [ColorBrewer](http://colorbrewer2.org/)
+
 
 Misc
 
